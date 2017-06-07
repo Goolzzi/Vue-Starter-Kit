@@ -1,0 +1,9 @@
+.add-modal{
+  padding: 30px;
+}
+.btn-group{
+    float: right;
+}
+.active {
+  background-color: blue;
+}
