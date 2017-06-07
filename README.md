@@ -1,4 +1,4 @@
-# testproject
+# Vue-Starter-Kit
 
 To start:
 
